@@ -5,4 +5,4 @@ DISCLAIMER: The usage of Artificial Intelligence or AI has been partially practi
 
 In this second part of the activity, I have made significant changes to the previous code I have done such as adding the Product search feature, sorting of items via categories, having a stock alert notice, order history, updated continue prompts and implementations of receipt numbers and date and time. This is done to enhance its features, flesh out its parts and simulate each scenario of what a shopping cart does.
 
-AI has been partially and strategically used. AI was used to fix each error the code suffers during development and clean up the arrangements of lines along the code.
+AI has been partially and strategically used. AI was used to fix each error the code suffers during development and clean up the arrangements of lines along the code. I also used AI to help me find where I should put each functions the code needs in order to properly flesh out said output.
